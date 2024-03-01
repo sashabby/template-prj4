@@ -57,3 +57,31 @@ body {
 .new-padding-2 {
 	padding: 10px
 }
+
+.fst-italic{
+	display: inline;
+		
+}
+
+.fst {
+	color:black;
+	font-family: "Didact Gothic", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+.level-sasha {
+	border-color:red!important;
+	background-color: aquamarine;
+}
+
+.language-progress {
+	border-color: aquamarine !important;
+	background-color:red !important
+}
+
+.fw-bolder {
+	font-family: "Special Elite", system-ui;
+  	font-weight: 400;
+  	font-style: normal;
+}
