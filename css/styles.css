@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFD9F7;
 }
 
 /* Styles for lists in the document */
@@ -77,10 +77,9 @@ body {
 
 .language-progress {
 	border-color: black !important;
-	background-color:white!important
+	background-color:white!important;
 		
 }
-
 
 .fw-bolder {
 	font-family: "Special Elite", system-ui;
@@ -93,3 +92,5 @@ body {
   	font-weight: 400;
   	font-style: normal;
 }
+
+.col-md-3
