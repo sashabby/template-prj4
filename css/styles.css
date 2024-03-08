@@ -72,14 +72,15 @@ body {
 }
 
 .level-sasha {
-	border-color:red!important;
-	background-color: aquamarine;
+	border-color: black !important;
 }
 
 .language-progress {
-	border-color: aquamarine !important;
-	background-color:red !important
+	border-color: black !important;
+	background-color:white!important
+		
 }
+
 
 .fw-bolder {
 	font-family: "Special Elite", system-ui;
